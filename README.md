@@ -16,20 +16,23 @@
 
 ### Libraries used : 
 ```
-  * pandas
-  * numpy
-  * matplotlib
-  * plotly
-  * cufflinks
+	*warnings
+	*numpy
+	*pandas
+	*seaborn
+	*matplotlib.pyplot
+	*sklearn (specifically sklearn.model_selection, sklearn.metrics, sklearn.ensemble)
+	*imblearn.over_sampling
+	*statsmodels.api
+	*statsmodels.stats.outliers_influence
+	*sklearn.preprocessing
 ```
 
 ## Algorithms Used
 
 The Algorithms used are : 
 
-	* decision tree
-	* kNN
-	* kMeans clustering
+	* Linear Regression
 	* RandomForestClassifier
 
 ## Project Conclusion
